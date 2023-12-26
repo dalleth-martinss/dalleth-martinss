@@ -2,7 +2,7 @@
 
 🔭 Atualmente, não estou trabalhando na área.
 
-🌱 Estou em um processo de aprendizado constante, focando em HTML, CSS, Java e Spring Boot com banco de dados.
+🌱 Estou em um processo de aprendizado constante, focando em HTML, CSS, Angular, JavaScript, TypeScript, Java e Spring Boot com banco de dados.
 
 👯 Estou interessada em colaborar em novos projetos e expandir minha rede de contatos.
 
