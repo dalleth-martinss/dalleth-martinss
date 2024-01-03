@@ -6,7 +6,7 @@
 
 👯 Estou interessada em colaborar em novos projetos e expandir minha rede de contatos.
 
-🤔 Estou procurando por ajuda e orientação de desenvolvedores Java. Se você é experiente nessa área, adoraria ouvir suas dicas e conselhos.
+🤔 Estou procurando por ajuda e orientação de desenvolvedores Front-End. Se você é experiente nessa área, adoraria ouvir suas dicas e conselhos.
 
 💬 Sinta-se à vontade para me fazer qualquer pergunta, estou aqui para ajudar!
 
