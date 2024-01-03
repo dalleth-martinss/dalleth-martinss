@@ -8,7 +8,7 @@
 
 🤔 Estou procurando por ajuda e orientação de desenvolvedores Front-End. Se você é experiente nessa área, adoraria ouvir suas dicas e conselhos.
 
-💬 Sinta-se à vontade para me fazer qualquer pergunta, estou aqui para ajudar!
+💬 Sinta-se à vontade para me fazer qualquer pergunta, estou a disposição.
 
 📫 Você pode entrar em contato comigo pelo e-mail: essi_dalleth@outlook.com.
 
