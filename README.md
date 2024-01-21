@@ -2,7 +2,7 @@
 
 🔭 Atualmente, não estou trabalhando na área.
 
-🌱 Estou em um processo de aprendizado constante, focando em HTML, CSS, Angular, JavaScript, TypeScript, com banco de dados.
+🌱 Estou em um processo de aprendizado constante, focando em HTML, CSS, JavaScript, Java e banco de dados.
 
 👯 Estou interessada em colaborar em novos projetos e expandir minha rede de contatos.
 
