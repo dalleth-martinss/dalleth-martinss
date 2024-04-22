@@ -1,8 +1,10 @@
-### Olá, Eu sou Dálleth Martins!!! 👋
 
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% 
-  src=" " />
+
+<div align="center">
+  <img src="https://github.com/dalleth-martinss/myphoto/blob/main/myphoto/myphoto.png" width="400px" height="400px" />
+</div>
+
 &nbsp;&nbsp;&nbsp;
 
 
