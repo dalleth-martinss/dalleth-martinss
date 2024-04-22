@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ enfrentar desafios empolgantes utilizando tecnologia. <br><br> Como desenvolvedora de software, sou apaixonada por resolver problemas por meio da tecnologia. Busco equilibrar minha carreira entre habilidades técnicas e de desenvolvimento de software. Estou sempre em busca de aprender e aprimorar minhas habilidades, integrando os fundamentos do desenvolvimento ágil para criar soluções eficazes e inovadoras. </p>&nbsp;
+<p align="center">I ❤️ enfrentar desafios empolgantes utilizando tecnologias. <br><br> Como desenvolvedora de software, sou apaixonada por resolver problemas por meio da tecnologia. Busco equilibrar minha carreira entre habilidades técnicas e de desenvolvimento de software. Estou sempre em busca de aprender e aprimorar minhas habilidades, integrando os fundamentos do desenvolvimento ágil para criar soluções eficazes e inovadoras. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=dalleth-martinss&theme=radical&mode=weekly" />
