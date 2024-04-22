@@ -13,8 +13,8 @@
 &nbsp;&nbsp;&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dalleth-martinss&theme=radical&mode=weekly" />
-  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalleth-martinss&layout=donut&show_icons=true&theme=radical" />
+  <img width="56%" src="https://github-readme-streak-stats.herokuapp.com?user=dalleth-martinss&theme=radical&mode=weekly" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalleth-martinss&layout=donut&show_icons=true&theme=radical" />
 </div>
 
  
