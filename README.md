@@ -12,12 +12,11 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<div  align="left" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=dalleth-martinss&theme=radical&mode=weekly" />
+<div align="center" style="margin-bottom:100px">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dalleth-martinss&theme=radical&mode=weekly" />
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalleth-martinss&layout=donut&show_icons=true&theme=radical" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalleth-martinss&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
  
  &nbsp;
  &nbsp;
