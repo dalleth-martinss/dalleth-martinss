@@ -1,4 +1,4 @@
-### Hello, Eu Dálleth Martins!!! 👋
+### Olá, Eu sou Dálleth Martins!!! 👋
 
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% 
