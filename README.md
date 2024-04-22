@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/dalleth-martinss/myphoto/blob/main/myphoto/myphoto.png" width="400px" height="400px" />
+  <img src="https://github.com/dalleth-martinss/myphoto/blob/main/myphoto/myphoto.png" width="200px" height="200px" />
 </div>
 
 &nbsp;&nbsp;&nbsp;
