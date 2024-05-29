@@ -38,9 +38,8 @@
 
 #### Secondary Stack:
 
+![C#](https://img.shields.io/badge/csharp-4285F4?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
 #### Studying in this moment:
