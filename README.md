@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center", "justify" > I ❤️ enfrentar desafios empolgantes utilizando tecnologias.   
+<p align="center" style="text-align: justify;" > I ❤️ enfrentar desafios empolgantes utilizando tecnologias.   
 
 Como desenvolvedora de software, sou apaixonada por resolver problemas por meio da tecnologia. Busco equilibrar minha carreira entre habilidades técnicas e de desenvolvimento de software. Estou sempre em busca de aprender e aprimorar minhas habilidades, integrando os fundamentos do desenvolvimento ágil para criar soluções eficazes e inovadoras. </p>&nbsp;
 
