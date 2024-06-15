@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center" > I ❤️ enfrentar desafios empolgantes utilizando tecnologias.   
+<p align="center" > I ❤️ programação voltada ao back end!
 
 Como desenvolvedora de software, sou apaixonada por resolver problemas por meio da tecnologia. Busco equilibrar minha carreira entre habilidades técnicas e de desenvolvimento de software. Estou sempre em busca de aprender e aprimorar minhas habilidades, integrando os fundamentos do desenvolvimento ágil para criar soluções eficazes e inovadoras. </p>&nbsp;
 
