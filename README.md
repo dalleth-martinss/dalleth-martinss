@@ -5,7 +5,7 @@
   <img src=" " width="200px" height="200px"/>
 </div> -->
 
-<p align="center" > Olá pessoal 🤗, Sejam muitos bem-vindos ao meu perfil ❤️!!! <br> </p>&nbsp;
+<p align="center" > Olá pessoal 🤗, Sejam muitos bem-vindos ao meu perfil!!! <br> </p>&nbsp;
 
 &nbsp;&nbsp;&nbsp;
 
