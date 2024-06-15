@@ -9,9 +9,13 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center" > I ❤️ programação voltada ao back end!
+<p align="center" > Uma iniciante em ascensão apaixonada❤️ por Java e C#!
 
-Como desenvolvedora de software, sou apaixonada por resolver problemas por meio da tecnologia. Busco equilibrar minha carreira entre habilidades técnicas e de desenvolvimento de software. Estou sempre em busca de aprender e aprimorar minhas habilidades, integrando os fundamentos do desenvolvimento ágil para criar soluções eficazes e inovadoras. </p>&nbsp;
+Sou uma desenvolvedora iniciante em busca constante de conhecimento e aperfeiçoamento. Minha paixão por Java e C# me impulsiona a mergulhar no universo do back-end, desvendando os segredos da criação de soluções robustas e escaláveis.
+Dedico-me diariamente a aprender e crescer, explorando novas tecnologias, frameworks e ferramentas que me permitem construir sistemas eficientes e de alto desempenho. 
+Acredito que a colaboração e o compartilhamento de conhecimentos são essenciais para o desenvolvimento profissional, por isso, busco participar ativamente da comunidade de desenvolvedores. 
+
+</p>&nbsp;
 
 &nbsp;&nbsp;&nbsp;
 
