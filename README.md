@@ -8,9 +8,9 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center"> Olá pessoal, 🤗 Sejam muitos bem-vindos ao meu perfil ❤️!!!
+<p align="center"> Olá pessoal, 🤗 Sejam muitos bem-vindos ao meu perfil ❤️!!! &nbsp;
   &nbsp;
-Well, I ❤️ enfrentar desafios empolgantes utilizando tecnologias. <br><br> Como desenvolvedora de software, sou apaixonada por resolver problemas por meio da tecnologia. Busco equilibrar minha carreira entre habilidades técnicas e de desenvolvimento de software. Estou sempre em busca de aprender e aprimorar minhas habilidades, integrando os fundamentos do desenvolvimento ágil para criar soluções eficazes e inovadoras. </p>&nbsp;
+I ❤️ enfrentar desafios empolgantes utilizando tecnologias. <br><br> Como desenvolvedora de software, sou apaixonada por resolver problemas por meio da tecnologia. Busco equilibrar minha carreira entre habilidades técnicas e de desenvolvimento de software. Estou sempre em busca de aprender e aprimorar minhas habilidades, integrando os fundamentos do desenvolvimento ágil para criar soluções eficazes e inovadoras. </p>&nbsp;
 
 &nbsp;&nbsp;&nbsp;
 
