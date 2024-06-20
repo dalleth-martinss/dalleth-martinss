@@ -49,7 +49,7 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 
 
 
-#### Included in my roadmap:
+#### Included in my study roadmap:
 
 <!-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp; -->
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
