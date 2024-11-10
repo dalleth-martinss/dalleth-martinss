@@ -20,8 +20,8 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 &nbsp;&nbsp;&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=dalleth-martinss&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalleth-martinss&layout=donut&show_icons=true&theme=radical" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=dalleth-martinss&theme=radical&mode=weekly" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalleth-martinss&layout=donut&show_icons=true&theme=radical" />
 </div>
 
  
