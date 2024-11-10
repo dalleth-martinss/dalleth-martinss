@@ -83,4 +83,4 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F05DFF&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F05DFF&height=130&section=footer"/>
