@@ -1,4 +1,4 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F05DFF&height=150&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F05DFF&height=100&section=header"/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <!-- <div align="center">
