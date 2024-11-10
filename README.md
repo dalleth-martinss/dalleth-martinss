@@ -11,7 +11,7 @@
 
 <p align="center" > Uma iniciante em ascensão apaixonada❤️ por Java!
 
-Sou uma desenvolvedora iniciante em busca constante de conhecimento e aperfeiçoamento. Minha paixão por Java e C# me impulsiona a mergulhar no universo do back-end, desvendando os segredos da criação de soluções robustas e escaláveis.
+Sou uma desenvolvedora iniciante em busca constante de conhecimento e aperfeiçoamento. Minha paixão pela tecnologia me impulsiona a mergulhar no universo do back-end, desvendando os segredos da criação de soluções robustas e escaláveis.
 Dedico-me diariamente a aprender e crescer, explorando novas tecnologias, frameworks e ferramentas que me permitem construir sistemas eficientes e de alto desempenho. 
 Acredito que a colaboração e o compartilhamento de conhecimentos são essenciais para o desenvolvimento profissional, por isso, busco participar ativamente da comunidade de desenvolvedores!
 
