@@ -41,8 +41,8 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;-->
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;-->
+![.NET](https://img.shields.io/badge/dotnet-4285F4?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/csharp-9f239d?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 
 
